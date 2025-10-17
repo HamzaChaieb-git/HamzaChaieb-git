@@ -4,12 +4,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Synchronizing+Neural+Networks...;Deploying+Agentic+Pipelines...;Training+Diffusion+Models...;Visualizing+Intelligence+in+Motion...;Welcome+to+the+AI+Lab." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Synchronizing+Neural+Networks...;Deploying+Agentic+Pipelines...;Training+Diffusion+Models...;Visualizing+Intelligence+in+Motion...;Welcome+to+the+AI+Lab." />
 </div>
 
 ---
 
 <div align="center">
+  <!-- Contribution Snake -->
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 </div>
 
@@ -17,91 +18,105 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="AI Circuit" width="350" src="https://media.tenor.com/3YzU7V7Zqv8AAAAd/ai-circuit.gif"/>
+<img align="right" alt="AI Circuit" width="340" src="https://media.tenor.com/3YzU7V7Zqv8AAAAd/ai-circuit.gif"/>
 
 I’m **Hamza Chaieb**, a **Data Science Engineer** blending **AI research**, **MLOps**, and **creative design** to build autonomous and visually meaningful systems.
 
-> "Where others see datasets, I see ecosystems — evolving, reacting, learning."
+> “Where others see datasets, I see ecosystems — evolving, reacting, learning.”
 
-🔹 **Specialties:**  
-Machine Learning · Agentic Systems · Diffusion Models · MLOps · Synthetic Data  
+**Specialties:** Machine Learning · Agentic Systems · Diffusion Models · MLOps · Synthetic Data  
+**Now experimenting with:** multi-agent economic sims · emotion models (diffusion/GAN) · real-time ML with monitoring · visual dashboards for AI behavior
 
-🔹 **Currently experimenting with:**  
-- Multi-agent economic simulations  
-- Diffusion and GAN-based emotion models  
-- Real-time ML deployment with monitoring systems  
-- Visual dashboards for AI behaviors  
+<br clear="both"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (with visuals)
 
 <div align="center">
 
-### 🪙 Crypto Due Diligence  
-<img src="https://media.tenor.com/v2MGK-CrdLgAAAAC/crypto-mining.gif" width="180"/>
+### 🪙 Crypto Due Diligence
+<a href="https://github.com/HamzaChaieb-git">
+  <img src="https://media.tenor.com/a6Kx_EvW82IAAAAd/crypto-blockchain.gif" width="220" alt="Crypto Analysis"/>
+</a>
 
-Built a **vector-based crypto intelligence core** using **Weaviate + LangChain** for real-time due diligence.  
-Integrated **Chronos fine-tuning** + **sentiment analysis** across market and on-chain data.  
-**Stack:** Python · LangChain · Weaviate · Transformers · Chronos · RAG  
-
----
-
-### ⚙️ MLOps Autonomous Pipeline  
-<img src="https://media.tenor.com/XvK7TGyW7VIAAAAC/data-visualization.gif" width="180"/>
-
-Developed a **self-healing ML pipeline** with drift detection and CI/CD automation.  
-Achieved **92 % accuracy** with auto retraining and full lifecycle tracking.  
-**Stack:** FastAPI · Docker · MLflow · Prometheus · Grafana · GitHub Actions  
+Vector-powered **crypto intelligence** with **Weaviate + LangChain** for due diligence and risk.  
+Chronos fine-tuning + sentiment NLP + on-chain analytics for investment insights.  
+**Stack:** Python · LangChain · Weaviate · Transformers · Chronos · RAG
 
 ---
 
-### 🎧 Speech Emotion AI  
-<img src="https://media.tenor.com/w5f6rEjQ-UsAAAAC/sound-waveform.gif" width="180"/>
+### ⚙️ MLOps Autonomous Pipeline
+<a href="https://github.com/HamzaChaieb-git">
+  <img src="https://media.tenor.com/CE0TPhP3YhcAAAAC/machine-learning-artificial-intelligence.gif" width="220" alt="MLOps Animation"/>
+</a>
 
-Built a **cross-lingual emotion recognition system** using diffusion models and transfer learning.  
-Classifies 6 emotions across EN + DE speech in real time.  
-**Stack:** PyTorch · Librosa · Diffusion Models · Speech Processing  
+**Self-healing ML** with drift detection, CI/CD automation and lifecycle tracking.  
+Hit **92%** accuracy with auto-retraining + MLflow registry.  
+**Stack:** FastAPI · Docker · MLflow · Prometheus · Grafana · GitHub Actions
 
 ---
 
-### 🏦 Agentic Bank Simulation  
-<img src="https://media.tenor.com/0B0DcrG9XH0AAAAd/ai-bank.gif" width="180"/>
+### 🎧 Speech Emotion AI
+<a href="https://github.com/HamzaChaieb-git">
+  <img src="https://media.tenor.com/DvK2ikU4l6sAAAAC/sound-wave.gif" width="220" alt="Speech Emotion AI"/>
+</a>
 
-Designed a **multi-agent economic simulator** with CTGAN synthetic clients + Mesa ABM behaviors.  
-Modeled marketing scenarios and digital adoption dynamics.  
-**Stack:** Python · Mesa ABM · CTGAN · LangChain · Groq  
+Cross-lingual **emotion recognition** via diffusion + transfer learning (EN/DE) with real-time inference.  
+**Stack:** PyTorch · Librosa · Diffusion Models · Speech Processing
+
+---
+
+### 🏦 Agentic Bank Simulation
+<a href="https://github.com/HamzaChaieb-git">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="220" alt="Agentic Simulation"/>
+</a>
+
+**Multi-agent banking simulator** (Mesa ABM) with **CTGAN** synthetic clients and scenario modeling.  
+**Stack:** Python · Mesa ABM · CTGAN · LangChain · Groq
 
 </div>
 
 ---
 
-## ⚙️ Technical Arsenal
+## 🧠 Skills — Badges + Icon Wall
 
-<div align="center">
-  <img src="https://media.tenor.com/bTzIikY1LJ0AAAAC/ai-tech.gif" width="180"/>
-</div>
+### Badges (quick scan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFAA33?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![CTGAN](https://img.shields.io/badge/CTGAN-4B0082?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-1F618D?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge)
 
-| **Domain** | **Stack** |
-|:--|:--|
-| 🧠 **AI & Machine Learning** | PyTorch · TensorFlow · Diffusion · Transformers · CTGAN |
-| ⚙️ **MLOps & Automation** | MLflow · FastAPI · Docker · Grafana · Prometheus · GitHub Actions |
-| 🧮 **Data & Simulation** | Mesa ABM · LangChain · Weaviate · SQL · Groq |
-| 🎨 **Creative Tools** | Cinema 4D · Blender · Photoshop · After Effects |
+### Icon Wall (devicons)
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</p>
 
 ---
 
-## 🌌 Research Vectors
-
-- **Generative AI** — synthetic creation + diffusion methods  
-- **Speech Processing** — emotion and linguistic resonance  
-- **Multi-Agent Systems** — digital behavior simulation  
-- **MLOps** — resilient model deployment loops  
-- **AI x Design** — where engineering meets aesthetics  
-
----
-
-## 📊 Neural Diagnostics  
+## 📊 Neural Diagnostics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaChaieb-git&show_icons=true&theme=react&hide_border=true&count_private=true&border_radius=10&include_all_commits=true"/>
@@ -109,19 +124,23 @@ Modeled marketing scenarios and digital adoption dynamics.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HamzaChaieb-git&theme=react&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HamzaChaieb-git&theme=react&hide_border=true&border_radius=10" alt="streak stats"/>
 </div>
 
 ---
 
-## 🛰 Connect with Me  
+## 🛰 Connect with Me
 
 <div align="center">
-  <img src="https://media.tenor.com/Pf1P2v_lYwYAAAAC/hologram-handshake.gif" width="250"/>
-  <br/>
-  <a href="https://linkedin.com/in/hamzachaieb"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Chaieb-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hamza.chaieb00@gmail.com"><img src="https://img.shields.io/badge/Email-hamza.chaieb00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/HamzaChaieb-git"><img src="https://img.shields.io/badge/GitHub-HamzaChaieb--git-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/hamzachaieb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hamza.chaieb00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hamza.chaieb00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HamzaChaieb-git">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ---
